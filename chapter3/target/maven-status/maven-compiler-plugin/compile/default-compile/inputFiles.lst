@@ -1,3 +1,4 @@
+D:\masterSpring\chapter3\src\main\java\com\smart\dao\UserMapper.java
 D:\masterSpring\chapter3\src\main\java\com\smart\web\BbsDaemon.java
 D:\masterSpring\chapter3\src\main\java\com\smart\web\LoginCommand.java
 D:\masterSpring\chapter3\src\main\java\com\smart\service\UserService.java
@@ -7,3 +8,4 @@ D:\masterSpring\chapter3\src\main\java\com\smart\domain\User.java
 D:\masterSpring\chapter3\src\main\java\com\smart\dao\LoginLogDao.java
 D:\masterSpring\chapter3\src\main\java\com\smart\domain\LoginLog.java
 D:\masterSpring\chapter3\src\main\java\com\smart\web\LoginController.java
+D:\masterSpring\chapter3\src\main\java\com\smart\web\UserController.java
